@@ -9,8 +9,17 @@ Anotei tudo dentro do Notion em pages que criei, me dediquei e também fiz algun
 link do meu perfil: 
 
 ## POSTS
-linkedin:
-DIO:
+**linkedin**:
+
+**DIO**: 
+
+1.[Bate - papo: Como está sendo sua experência no Code Girls 2025?](https://web.dio.me/topics/bate-papo-como-esta-sendo-sua-experencia-no-code-girls-2025?back=/track/santander-code-girls-2025&order=undefined&page=1&search=&tab=forum&track_id=6cd0de9d-d33d-4a18-9557-aa17a0ee6fcc)
+
+2.[Descomplicando EC2 - Dia 1: O Bê-á-Bá para Escolher a Instância Certa](https://web.dio.me/topics/descomplicando-ec2-dia-1-o-be-a-ba-para-escolher-a-instancia-certa?back=/track/santander-code-girls-2025&order=undefined&page=1&search=&tab=forum&track_id=6cd0de9d-d33d-4a18-9557-aa17a0ee6fcc)
+
+3.[Anotações - como criar conta AWS](https://web.dio.me/topics/anotacoes-como-criar-conta-aws?back=/track/santander-code-girls-2025&order=undefined&page=1&search=&tab=forum&track_id=6cd0de9d-d33d-4a18-9557-aa17a0ee6fcc)
+
+4.[☁️ Entendendo os modelos da nuvem - IaaS, PaaS e SaaS](https://web.dio.me/topics/entendendo-os-modelos-da-nuvem-iaas-paas-e-saas?back=/track/santander-code-girls-2025&order=undefined&page=1&search=&tab=forum&track_id=6cd0de9d-d33d-4a18-9557-aa17a0ee6fcc)
 
 ## PRÁTICAS
 Alguns dos meus códigos e aprendizados durante esse período:
