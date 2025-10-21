@@ -15,6 +15,9 @@ DIO:
 ## PRÁTICAS
 Alguns dos meus códigos e aprendizados durante esse período:
 
+[DRAW IO - DESAFIO EC2 COM EBS](https://github.com/LayzaK/bootcamp-santader-CodeGirls2025/tree/main/DIAGRAMA%20-%20S3)
+[DRAW IO - DESAFIO S3 COM LAMBDA FUNCTION](https://github.com/LayzaK/bootcamp-santader-CodeGirls2025/blob/main/S3%20COM%20LAMBDA%20FUNCTION.drawio)
+
 
 
 ### **OBRIGADA SANTANDER PELA OPORTUNIDADE!**
