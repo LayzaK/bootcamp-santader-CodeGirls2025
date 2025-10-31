@@ -6,7 +6,7 @@ Nesta experiência/formação ofericida pelo Santader eu puder aprender desde as
 
 ## ANOTAÇÕES
 Anotei tudo dentro do [Notion](https://www.notion.so/AWS-CLOUD-COMPUTING-2646942dbbb2807d9beaec221c9b8a96?source=copy_link) em pages que criei, me dediquei e também fiz alguns posts na plataforma da DIO voltados ao bootcamp
-link do meu perfil:
+link do meu perfil: [perfil DIO](https://web.dio.me/users/slayza737?tab=achievements)
 
 ### POSTS
 **linkedin**:
