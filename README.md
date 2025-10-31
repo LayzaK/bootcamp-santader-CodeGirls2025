@@ -5,10 +5,10 @@ Minha jornada no bootcamp de AWS Cloud Computing oferecido pelo Santader - Code 
 Nesta experiência/formação ofericida pelo Santader eu puder aprender desde as regions dentro da AWS até automação e devOps dentro da AWS
 
 ## ANOTAÇÕES
-Anotei tudo dentro do Notion em pages que criei, me dediquei e também fiz alguns posts na plataforma da DIO voltados ao bootcamp
-link do meu perfil: 
+Anotei tudo dentro do [Notion](https://www.notion.so/AWS-CLOUD-COMPUTING-2646942dbbb2807d9beaec221c9b8a96?source=copy_link) em pages que criei, me dediquei e também fiz alguns posts na plataforma da DIO voltados ao bootcamp
+link do meu perfil:
 
-## POSTS
+### POSTS
 **linkedin**:
 
 **DIO**: 
